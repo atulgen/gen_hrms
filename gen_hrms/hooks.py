@@ -8,6 +8,16 @@ app_license = "mit"
 # Apps
 # ------------------
 
+
+fixtures = [
+    "Custom Field",
+    "Server Script", 
+    "Client Script",
+    "Print Format",
+    "Property Setter"
+]
+
+
 # required_apps = []
 
 # Each item in the list will be shown as an app in the apps page
