@@ -14,8 +14,12 @@ fixtures = [
     "Server Script", 
     "Client Script",
     "Print Format",
-    "Property Setter"
+    "Property Setter",
+    {"dt": "DocType", "filters": [["module", "=", "Gen Hrms"]]},
 ]
+
+
+
 
 
 # required_apps = []
