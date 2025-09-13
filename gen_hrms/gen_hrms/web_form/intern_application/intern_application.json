@@ -18,7 +18,7 @@
  "list_columns": [],
  "login_required": 0,
  "max_attachment_size": 0,
- "modified": "2025-09-13 10:27:36.513033",
+ "modified": "2025-09-13 10:52:33.693016",
  "modified_by": "Administrator",
  "module": "Gen Hrms",
  "name": "intern-application",
@@ -45,7 +45,7 @@
   {
    "allow_read_on_all_link_options": 0,
    "fieldname": "job_title",
-   "fieldtype": "Link",
+   "fieldtype": "Data",
    "hidden": 0,
    "label": "Job Title",
    "max_length": 0,
