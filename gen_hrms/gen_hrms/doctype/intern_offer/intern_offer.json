@@ -86,12 +86,6 @@
    "search_index": 1
   },
   {
-   "fieldname": "intern_application",
-   "fieldtype": "Link",
-   "label": "Intern Application",
-   "options": "Intern Application"
-  },
-  {
    "fieldname": "intern_details_section",
    "fieldtype": "Section Break",
    "label": "Intern Details"
