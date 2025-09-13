@@ -9,6 +9,7 @@
  "field_order": [
   "section_break_wmgv",
   "amended_from",
+  "job_title",
   "personal_information_section",
   "full_name",
   "email",
@@ -83,6 +84,13 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
+  },
+  {
+   "fieldname": "job_title",
+   "fieldtype": "Link",
+   "label": "Job Title",
+   "options": "Job Opening",
+   "read_only": 1
   },
   {
    "fieldname": "personal_information_section",
@@ -423,9 +431,8 @@
  ],
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
- "is_submittable": 0,
  "links": [],
- "modified": "2025-09-12 11:55:26.923310",
+ "modified": "2025-09-13 10:21:09.169011",
  "modified_by": "Administrator",
  "module": "Gen Hrms",
  "name": "Intern Application",

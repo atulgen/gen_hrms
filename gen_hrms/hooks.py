@@ -15,7 +15,7 @@ fixtures = [
     "Client Script",
     "Print Format",
     "Property Setter",
-    {"dt": "DocType", "filters": [["module", "=", "Gen Hrms"]]},
+    # {"dt": "DocType", "filters": [["module", "=", "Gen Hrms"]]},
 ]
 
 
