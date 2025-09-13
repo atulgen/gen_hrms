@@ -89,8 +89,7 @@
    "fieldname": "job_title",
    "fieldtype": "Link",
    "label": "Job Title",
-   "options": "Job Opening",
-   "read_only": 1
+   "options": "Job Opening"
   },
   {
    "fieldname": "personal_information_section",
@@ -432,7 +431,7 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-09-13 10:21:09.169011",
+ "modified": "2025-09-13 10:45:21.574674",
  "modified_by": "Administrator",
  "module": "Gen Hrms",
  "name": "Intern Application",
