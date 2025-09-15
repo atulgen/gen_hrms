@@ -10,14 +10,13 @@ app_license = "mit"
 
 
 fixtures = [
-    "Custom Field",
-    "Server Script", 
-    "Client Script",
-    "Print Format",
-    "Property Setter",
+    {"dt": "Custom Field", "filters": [["module", "=", "Gen Hrms"]]},
+    {"dt": "Server Script", "filters": [["module", "=", "Gen Hrms"]]},
+    {"dt": "Client Script", "filters": [["module", "=", "Gen Hrms"]]},
+    {"dt": "Print Format", "filters": [["module", "=", "Gen Hrms"]]},
+    {"dt": "Property Setter", "filters": [["module", "=", "Gen Hrms"]]}
     # {"dt": "DocType", "filters": [["module", "=", "Gen Hrms"]]},
 ]
-
 
 
 
